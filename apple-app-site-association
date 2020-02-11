@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "93A5P733D9.com.kb.app",
+            "paths": ["/openProductDetails/*"]
+        }]
+    }
+}
